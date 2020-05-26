@@ -17,9 +17,7 @@ class SpringBootJenkinsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		logger.info("test case executed");
-		logger.info("test case executing seconnd time also");
-		logger.info("added email id");
+		logger.info("Pipeline Configured");
 		assertEquals(true,true);
 	}
 
