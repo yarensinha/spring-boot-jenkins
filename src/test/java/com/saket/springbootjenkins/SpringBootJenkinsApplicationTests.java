@@ -19,7 +19,7 @@ class SpringBootJenkinsApplicationTests {
 	void contextLoads() {
 		logger.info("test case executed");
 		logger.info("test case executing seconnd time also");
-		logger.info("added email id");
+		;;;llogger.info("added email id");
 		assertEquals(true,true);
 	}
 
